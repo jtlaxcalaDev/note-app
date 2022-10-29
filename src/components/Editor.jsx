@@ -1,6 +1,6 @@
 import React from "react";
 
-import ReactMde from "react-mde/lib/js/components/ReactMde"
+import ReactMde from "react-mde"
 import Showdown from "showdown"
 
 export default function Editor({ currentNote, updateNote }) {
